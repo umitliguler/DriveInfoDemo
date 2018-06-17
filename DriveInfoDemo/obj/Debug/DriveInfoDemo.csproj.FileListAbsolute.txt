@@ -1,0 +1,5 @@
+C:\Users\emre\Documents\Vidobu Eğitim\Ileri Seviye C# Egitim Seti\0 Ornek Dosyalar\DriveInfoDemo\DriveInfoDemo\bin\Debug\DriveInfoDemo.exe.config
+C:\Users\emre\Documents\Vidobu Eğitim\Ileri Seviye C# Egitim Seti\0 Ornek Dosyalar\DriveInfoDemo\DriveInfoDemo\bin\Debug\DriveInfoDemo.exe
+C:\Users\emre\Documents\Vidobu Eğitim\Ileri Seviye C# Egitim Seti\0 Ornek Dosyalar\DriveInfoDemo\DriveInfoDemo\bin\Debug\DriveInfoDemo.pdb
+C:\Users\emre\Documents\Vidobu Eğitim\Ileri Seviye C# Egitim Seti\0 Ornek Dosyalar\DriveInfoDemo\DriveInfoDemo\obj\Debug\DriveInfoDemo.exe
+C:\Users\emre\Documents\Vidobu Eğitim\Ileri Seviye C# Egitim Seti\0 Ornek Dosyalar\DriveInfoDemo\DriveInfoDemo\obj\Debug\DriveInfoDemo.pdb
